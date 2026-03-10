@@ -11,11 +11,11 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** Torgersen, Biscoe, Dream
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** 344
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** 2007-2009
 
 ## Variables Measured
 
@@ -23,10 +23,17 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
+m-fras-changes
+| `bill_length_mm` |5-5000 |
+| `bill_depth_mm` | 2-2000|
+| `flipper_length_mm` | 6-6000 |
+| `body_mass_g` | 8-8000 |
+=======
 | `bill_length_mm` | 10-50 |
 | `bill_depth_mm` | 2-10 |
 | `flipper_length_mm` | 30-100 |
 | `body_mass_g` | 4000-15000|
+ main
 
 ## What the Analysis Does
 

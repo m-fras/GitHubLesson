@@ -23,7 +23,7 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | 10-50 |
+| `bill_length_mm` | 100-6784 |
 | `bill_depth_mm` | 2-10 |
 | `flipper_length_mm` | 30-100 |
 | `body_mass_g` | 4000-15000|
